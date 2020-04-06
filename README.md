@@ -14,3 +14,4 @@ Login with
 - POSTGRES_PASSWORD=odoo
 - POSTGRES_USER=odoo
 ```
+open " localhost" on web browser
