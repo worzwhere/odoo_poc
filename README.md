@@ -4,6 +4,7 @@ Using cmd belows
 
 ```
 git clone https://github.com/worzwhere/odoo_poc.git
+cd odoo_poc
 docker-compose up -d
 ```
 
